@@ -46,7 +46,7 @@ p{
 }
 @media screen and (min-width:1024px) {
     body{
-       font-size: 1.8; 
+       font-size: 1.8rem; 
     }
     h1{
         font-size: 8rem;
@@ -285,7 +285,7 @@ a{
 }
 /*plans*/
 .plan{
-    transition: transform .2 ease-out;
+    transition: transform .2s ease-out;
 }
 .plan__name{
     color: #fff;
